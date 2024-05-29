@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "aayushbest12",
+    "username": "username",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "sussybaka"
+      "password": "pass"
     },
 
     "anti-afk": {
@@ -36,7 +36,7 @@
 
       "messages": [
         "/skyblock",
-        "itsme_aayushhh is looking to join island. Dm him on discord, his username is aayushkun"
+        "msg"
       ]
     },
 
