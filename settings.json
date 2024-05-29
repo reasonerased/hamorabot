@@ -1,0 +1,47 @@
+{
+  "bot-account": {
+    "username": "aayushbest12",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "mc.leftypvp.net",
+    "port": 25565,
+    "version": "1.8.9"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "sussybaka"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 300,
+
+      "messages": [
+        "/skyblock",
+        "itsme_aayushhh is looking to join island. Dm him on discord, his username is aayushkun"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
