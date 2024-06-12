@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "username",
+    "username": "SkyJr",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "pass"
+      "password": "skykatakla"
     },
 
     "anti-afk": {
@@ -36,7 +36,8 @@
 
       "messages": [
         "/skyblock",
-        "msg"
+        "/Is warp bulma afk",
+        "Sell coca for highest at /is warp bulma"
       ]
     },
 
