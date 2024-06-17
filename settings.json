@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "SkyJr",
+    "username": "baldgod06",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "skykatakla"
+      "password": "baldgod06"
     },
 
     "anti-afk": {
@@ -32,11 +32,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 200,
 
       "messages": [
         "/skyblock",
-        "/Is warp bulma afk",
+        "/Is warp baldgod06 afk",
         "Sell coca for highest at /is warp bulma"
       ]
     },
