@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "SkyJr",
+    "username": "hamoraham",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "skykatakla"
+      "password": "habibi9"
     },
 
     "anti-afk": {
